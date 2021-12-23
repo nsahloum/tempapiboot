@@ -1,4 +1,4 @@
-package com.example.tempapiboot;
+package com.temp.tempapiboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

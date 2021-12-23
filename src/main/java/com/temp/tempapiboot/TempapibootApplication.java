@@ -1,4 +1,4 @@
-package com.example.tempapiboot;
+package com.temp.tempapiboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
